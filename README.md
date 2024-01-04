@@ -14,6 +14,7 @@ A brief description of what this project does and who it's for
 
 
 ## Poster
-![Example Image](https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png/600x600?)
+<img src="https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png" alt="Example Image" width="600" height="600">
+
 
 
