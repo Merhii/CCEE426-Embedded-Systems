@@ -18,8 +18,9 @@ A brief description of what this project does and who it's for
 
 ### Tech Stack 
 <div align="center">  
-<a href="https://appinventor.mit.edu/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/bftU9gU-q5BvC5k2vaFciol7tlHaco2IIRcIibzt-jJlZj5L3FLyaJ_Vq0vAdcgj60s" alt="MITAI" height="50" /></a>  
- <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" alt="Andriod" height="50" /></a>  
+<a href="https://appinventor.mit.edu/" target="_blank"><img style="margin: 10px" src="https://play-lh.googleusercontent.com/bftU9gU-q5BvC5k2vaFciol7tlHaco2IIRcIibzt-jJlZj5L3FLyaJ_Vq0vAdcgj60s" alt="MITAI" height="150" /></a>  
+ <a href="https://www.android.com/" target="_blank"><img style="margin: 10px" src="https://www.freepnglogos.com/uploads/android-logo-png/android-logo-0.png" alt="Andriod" height="150" /></a> 
+ <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://olimex.files.wordpress.com/2017/06/arduino-logo-circle-thumb.png?w=584" alt="Arduino" height="150" /></a>  
 </div>
 
 
