@@ -15,5 +15,5 @@ A brief description of what this project does and who it's for
 
 ## Poster
 
-![Poster](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+[[images/Automatic-Pet feeder Poster.png]]
 
