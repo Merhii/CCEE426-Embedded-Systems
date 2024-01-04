@@ -14,6 +14,6 @@ A brief description of what this project does and who it's for
 
 
 ## Poster
-![Example Image]([images/Automatic-Pet feeder Poster.png](https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png)https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png)
+![Example Image](https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png)https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png)
 
 
