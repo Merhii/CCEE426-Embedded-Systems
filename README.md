@@ -14,7 +14,10 @@ A brief description of what this project does and who it's for
 
 
 ## Poster
+<div allign="center">
 <img src="https://github.com/Merhii/CCEE426-Embedded-Systems/blob/main/Automatic-Pet%20feeder%20Poster.png" alt="Pet Poster" width="800" height="800">
+ 
+</div>
 
 ### Tech Stack 
 <div align="center">  
